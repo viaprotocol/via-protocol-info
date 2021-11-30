@@ -22,3 +22,19 @@ Telegram - https://t.me/webillio
  Polygon
  
  Near 
+ 
+ ## Founders 
+ 
+ Serafim Korablev
+
+https://twitter.com/SerafimCloud
+
+https://t.me/serafimeth
+
+http://linkedin.com/in/serafimkorablev/
+
+Daniil Okhlopkov
+
+https://twitter.com/danokhlopkov
+
+http://linkedin.com/in/danokhlopkov/
