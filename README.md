@@ -3,9 +3,11 @@ Multi-chain payment infrastructure for GameFi and NFT
 
 ## Links:
 
-webill.io
-pay.webill.io/demomint
-pay.webill.io/demo
+https://webill.io
+
+https://pay.webill.io/demomint
+
+https://pay.webill.io/demo
 
 ## Communities
 
