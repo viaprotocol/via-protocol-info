@@ -1,5 +1,6 @@
 # WeBill
-Multi-chain payment infrastructure for GameFi and NFT
+Multi-chain payment infrastructure for GameFi and NFT.
+
 We are not completely open source right now, but we are going to open it in mid-2022.
 If you want to check code - feel free to contact us on the Telegram community.
 
