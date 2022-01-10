@@ -26,6 +26,12 @@ Telegram - https://t.me/webillio
  
  Near 
  
+ ## Hackathons finalist
+ 
+ DAO Global hackathon - https://hackforfreedom.org
+ 
+ MoleDAO - https://moledao.io/#/hackathon
+ 
  ## Founders 
  
  Serafim Korablev
