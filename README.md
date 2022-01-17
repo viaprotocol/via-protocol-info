@@ -1,5 +1,5 @@
 # WeBill
-Multi-chain liqudity aggregation protocol
+Cross-chain liqudity aggregation protocol
 
 We are not completely open sourced right now, but we are going to open it in mid-2022.
 If you want to check code - feel free to contact us on the Telegram community.
