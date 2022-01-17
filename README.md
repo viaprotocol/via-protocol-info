@@ -26,13 +26,13 @@ Telegram - https://t.me/webillio
  
  Near 
  
- ## Hackathons finalist
+ ## Hackathons winner
  
  Jump Capital First Prize in Polygon BUIDL IT Hackathon - https://buidlit.polygon.technology/
  
  DAO Global hackathon - https://hackforfreedom.org
  
- MoleDAO - https://moledao.io/#/hackathon
+ MoleDAO - https://twitter.com/moledao_io/status/1482954565108469761
  
  ## Founders 
  
