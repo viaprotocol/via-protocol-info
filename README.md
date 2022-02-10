@@ -1,16 +1,17 @@
-# WeBill
-Cross-chain liqudity aggregation protocol
+# VIA Protocol
+Advanced Cross-Chain Liquidity Aggregation Protocol
 
 We are not completely open sourced right now, but we are going to open it in mid-2022.
 If you want to check code - feel free to contact us on the Telegram community.
 
 ## Links:
 
-Website - https://webill.io
+Website - https://via.exchange
 
-Multi-chain NFT minting https://pay.webill.io/demomint
+Ultimate cross-chain router - https://router.via.exchange
 
-Decentralized subscriptions - https://pay.webill.io/demo
+Multi-chain NFT minting https://pay.via.exchange/demomint
+
 
 ## Communities
 
