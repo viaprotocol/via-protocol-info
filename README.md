@@ -1,4 +1,4 @@
-# VIA Protocol
+# Via Protocol (ex WeBill)
 Advanced Cross-Chain Liquidity Aggregation Protocol
 
 Via Protocol unites cross-chain protocols and finds the cheapest 1-transaction any-to-any swaps.
