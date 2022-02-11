@@ -17,11 +17,11 @@ Multi-chain NFT minting https://pay.via.exchange/demomint
 
 ## Communities
 
-Twitter - https://twitter.com/webill_io
+Twitter - https://twitter.com/via_protocol
 
 Discord - https://discord.gg/psX6N5qDcE 
 
-Telegram - https://t.me/webillio
+Telegram - https://t.me/viaexchange
 
 ## Grants
  
